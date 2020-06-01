@@ -4,7 +4,7 @@
 		
 		<pdDataType>Program version</pdDataType>
 		
-		<!-- This program version file was automatically generated on 29-May-20 -->
+		<!-- This program version file was automatically generated on 01-Jun-20 -->
 		
 		<update track="stable">
 			<checksum component="App\PhotoDemon\Languages\Master\MASTER.xml">-1213266976</checksum>
@@ -164,8 +164,8 @@
 			<checksum component="App\PhotoDemon\Languages\Indonesian.xml">-1065019202</checksum>
 			<checksum component="App\PhotoDemon\Languages\Hungarian.xml">76452289</checksum>
 			<checksum component="App\PhotoDemon\Languages\Hindi.xml">647118526</checksum>
-			<checksum component="App\PhotoDemon\Languages\German.xml">-945954377</checksum>
-			<checksum component="App\PhotoDemon\Languages\French.xml">-1053962990</checksum>
+			<checksum component="App\PhotoDemon\Languages\German.xml">606923384</checksum>
+			<checksum component="App\PhotoDemon\Languages\French.xml">49285744</checksum>
 			<checksum component="App\PhotoDemon\Languages\Finnish.xml">-932889667</checksum>
 			<checksum component="App\PhotoDemon\Languages\Czech.xml">1078509621</checksum>
 			<checksum component="App\PhotoDemon\Languages\Croatian.xml">-1874565844</checksum>
@@ -218,8 +218,8 @@
 			<checksum component="App\PhotoDemon\Themes\Colors_Brown.xml">1989081716</checksum>
 			<checksum component="App\PhotoDemon\Themes\Colors_Blue.xml">656472607</checksum>
 			<checksum component="README.md">-1732881963</checksum>
-			<version component="PhotoDemon.exe">7.9.0.1973</version>
-			<checksum component="PhotoDemon.exe">-995973439</checksum>
+			<version component="PhotoDemon.exe">7.9.0.1975</version>
+			<checksum component="PhotoDemon.exe">-593256649</checksum>
 			<version component="PD_Update_Patcher.exe">1.0.0.24</version>
 			<checksum component="PD_Update_Patcher.exe">1183457812</checksum>
 			<checksum component="LICENSE.md">63585980</checksum>
@@ -235,6 +235,7 @@
 		<releasenumber-beta>1</releasenumber-beta>
 		
 	</pdData>
+	>
 	>
 			
 	

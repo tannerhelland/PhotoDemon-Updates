@@ -4,7 +4,7 @@
 		
 		<pdDataType>Program version</pdDataType>
 		
-		<!-- This program version file was automatically generated on 12-Jul-20 -->
+		<!-- This program version file was automatically generated on 16-Jul-20 -->
 		
 		<update track="stable">
 			<checksum component="App\PhotoDemon\Languages\Master\MASTER.xml">-1213266976</checksum>
@@ -218,8 +218,8 @@
 			<checksum component="App\PhotoDemon\Themes\Colors_Brown.xml">1989081716</checksum>
 			<checksum component="App\PhotoDemon\Themes\Colors_Blue.xml">656472607</checksum>
 			<checksum component="README.md">756337250</checksum>
-			<version component="PhotoDemon.exe">7.9.0.2063</version>
-			<checksum component="PhotoDemon.exe">-1117828864</checksum>
+			<version component="PhotoDemon.exe">7.9.0.2076</version>
+			<checksum component="PhotoDemon.exe">197406570</checksum>
 			<version component="PD_Update_Patcher.exe">1.0.0.24</version>
 			<checksum component="PD_Update_Patcher.exe">1183457812</checksum>
 			<checksum component="LICENSE.md">63585980</checksum>
@@ -235,5 +235,6 @@
 		<releasenumber-beta>1</releasenumber-beta>
 		
 	</pdData>
+	
 	
 		

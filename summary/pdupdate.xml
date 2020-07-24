@@ -4,7 +4,7 @@
 		
 		<pdDataType>Program version</pdDataType>
 		
-		<!-- This program version file was automatically generated on 23-Jul-20 -->
+		<!-- This program version file was automatically generated on 24-Jul-20 -->
 		
 		<update track="stable">
 			<checksum component="App\PhotoDemon\Languages\Master\MASTER.xml">-1213266976</checksum>
@@ -143,32 +143,32 @@
 		</update>
 		
 		<update track="nightly">
-			<checksum component="App\PhotoDemon\Languages\Master\MASTER.xml">-663248361</checksum>
-			<checksum component="App\PhotoDemon\Languages\Vlaams.xml">1665371610</checksum>
-			<checksum component="App\PhotoDemon\Languages\Turkish.xml">-1952611565</checksum>
-			<checksum component="App\PhotoDemon\Languages\Traditional_Chinese.xml">1748966843</checksum>
-			<checksum component="App\PhotoDemon\Languages\Swedish.xml">1495637672</checksum>
-			<checksum component="App\PhotoDemon\Languages\Spanish_(Spain).xml">1856667299</checksum>
-			<checksum component="App\PhotoDemon\Languages\Spanish_(Mexico).xml">-1717498424</checksum>
-			<checksum component="App\PhotoDemon\Languages\Simplified_Chinese.xml">1338801545</checksum>
-			<checksum component="App\PhotoDemon\Languages\Russian.xml">435131644</checksum>
+			<checksum component="App\PhotoDemon\Languages\Master\MASTER.xml">1757022706</checksum>
+			<checksum component="App\PhotoDemon\Languages\Vlaams.xml">1528350918</checksum>
+			<checksum component="App\PhotoDemon\Languages\Turkish.xml">-1628982171</checksum>
+			<checksum component="App\PhotoDemon\Languages\Traditional_Chinese.xml">-1990504690</checksum>
+			<checksum component="App\PhotoDemon\Languages\Swedish.xml">-1295329366</checksum>
+			<checksum component="App\PhotoDemon\Languages\Spanish_(Spain).xml">164414519</checksum>
+			<checksum component="App\PhotoDemon\Languages\Spanish_(Mexico).xml">-533245941</checksum>
+			<checksum component="App\PhotoDemon\Languages\Simplified_Chinese.xml">-467161471</checksum>
+			<checksum component="App\PhotoDemon\Languages\Russian.xml">-987144472</checksum>
 			<checksum component="App\PhotoDemon\Languages\README FOR TRANSLATORS.txt">1179373746</checksum>
-			<checksum component="App\PhotoDemon\Languages\Portuguese_(Brazil).xml">1257669844</checksum>
-			<checksum component="App\PhotoDemon\Languages\Polish.xml">336688185</checksum>
-			<checksum component="App\PhotoDemon\Languages\Norwegian.xml">526355224</checksum>
-			<checksum component="App\PhotoDemon\Languages\Malay.xml">212327083</checksum>
-			<checksum component="App\PhotoDemon\Languages\Macedonian.xml">1721156950</checksum>
-			<checksum component="App\PhotoDemon\Languages\Korean.xml">1231523663</checksum>
-			<checksum component="App\PhotoDemon\Languages\Japanese.xml">-1515320917</checksum>
-			<checksum component="App\PhotoDemon\Languages\Italian.xml">230728413</checksum>
-			<checksum component="App\PhotoDemon\Languages\Indonesian.xml">-1211232153</checksum>
-			<checksum component="App\PhotoDemon\Languages\Hungarian.xml">2085115210</checksum>
-			<checksum component="App\PhotoDemon\Languages\Hindi.xml">-644824329</checksum>
-			<checksum component="App\PhotoDemon\Languages\German.xml">-1088240863</checksum>
-			<checksum component="App\PhotoDemon\Languages\French.xml">585811836</checksum>
-			<checksum component="App\PhotoDemon\Languages\Finnish.xml">8199199</checksum>
-			<checksum component="App\PhotoDemon\Languages\Czech.xml">-554730974</checksum>
-			<checksum component="App\PhotoDemon\Languages\Croatian.xml">206725038</checksum>
+			<checksum component="App\PhotoDemon\Languages\Portuguese_(Brazil).xml">1186316822</checksum>
+			<checksum component="App\PhotoDemon\Languages\Polish.xml">-457070540</checksum>
+			<checksum component="App\PhotoDemon\Languages\Norwegian.xml">785696485</checksum>
+			<checksum component="App\PhotoDemon\Languages\Malay.xml">-129098861</checksum>
+			<checksum component="App\PhotoDemon\Languages\Macedonian.xml">2004852585</checksum>
+			<checksum component="App\PhotoDemon\Languages\Korean.xml">2124129124</checksum>
+			<checksum component="App\PhotoDemon\Languages\Japanese.xml">1856836674</checksum>
+			<checksum component="App\PhotoDemon\Languages\Italian.xml">61464181</checksum>
+			<checksum component="App\PhotoDemon\Languages\Indonesian.xml">-1280487104</checksum>
+			<checksum component="App\PhotoDemon\Languages\Hungarian.xml">1519488340</checksum>
+			<checksum component="App\PhotoDemon\Languages\Hindi.xml">1229749088</checksum>
+			<checksum component="App\PhotoDemon\Languages\German.xml">-435621618</checksum>
+			<checksum component="App\PhotoDemon\Languages\French.xml">1761084848</checksum>
+			<checksum component="App\PhotoDemon\Languages\Finnish.xml">-1143777041</checksum>
+			<checksum component="App\PhotoDemon\Languages\Czech.xml">1009758503</checksum>
+			<checksum component="App\PhotoDemon\Languages\Croatian.xml">-521166141</checksum>
 			<version component="App\PhotoDemon\Plugins\experimental\zlibwapi.dll">1.2.11.0</version>
 			<checksum component="App\PhotoDemon\Plugins\experimental\zlibwapi.dll">-941725303</checksum>
 			<checksum component="App\PhotoDemon\Plugins\experimental\zlibwapi-README.txt">1993411594</checksum>
@@ -218,8 +218,8 @@
 			<checksum component="App\PhotoDemon\Themes\Colors_Brown.xml">1989081716</checksum>
 			<checksum component="App\PhotoDemon\Themes\Colors_Blue.xml">656472607</checksum>
 			<checksum component="README.md">756337250</checksum>
-			<version component="PhotoDemon.exe">7.9.0.2091</version>
-			<checksum component="PhotoDemon.exe">1609382554</checksum>
+			<version component="PhotoDemon.exe">7.9.0.2095</version>
+			<checksum component="PhotoDemon.exe">867902220</checksum>
 			<version component="PD_Update_Patcher.exe">1.0.0.24</version>
 			<checksum component="PD_Update_Patcher.exe">1183457812</checksum>
 			<checksum component="LICENSE.md">63585980</checksum>
@@ -235,7 +235,7 @@
 		<releasenumber-beta>1</releasenumber-beta>
 		
 	</pdData>
-	ata>
+	
 	
 	
 	
